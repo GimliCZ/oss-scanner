@@ -1,0 +1,9 @@
+repo: https://github.com/GimliCZ/DwarfMapper.NET#master
+primary_contact: dwarfmapper@seznam.cz
+output_format:
+  github_security_advisory:
+    min_severity: low
+homepage: https://github.com/GimliCZ/DwarfMapper.NET
+disabled: false
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
